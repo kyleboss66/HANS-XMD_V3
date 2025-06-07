@@ -24,12 +24,14 @@
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V3/fork)
 
 ### 2️⃣ Get Your Session ID
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-site.onrender.com)
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/)
 
-### 2️⃣ Get Your Session ID
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-site.onrender.com/pair)
+### 3️⃣ Get Your Session ID Pair
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/pair)
 
 
+### 4️⃣ Get Your Session ID Qr Code
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/qr)
 
 
 ---
